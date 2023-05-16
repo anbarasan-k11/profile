@@ -1,0 +1,62 @@
+{
+  "user":
+
+    {
+      "name": "aaaaaaaa",
+      "age": "bb years old",
+      "experence": "/fresher"
+    },
+  "userdetails":
+    {
+      "phoneno":"6786567876",
+      "emailid":"example123@gmail.com"
+      
+    }
+  ,
+  "address":{
+      "no" : 10,
+      "street" : "aaa street,ccc city",
+      "area ":""
+  },
+  "images": 
+    {
+      "icon":"C:\\Users\\HP\\Desktop\\html\\html.js\\task\\images\\profile picture.jpg"
+  },
+  "personalskills":[{
+      "language":"html,css"},
+      {
+        "language":"javascript"
+      },
+      {
+        "language":"mysql"
+      } 
+  ],"languageskill":[{
+    "name":"english",
+    "persentage":70
+  },{
+    "name":"tamil",
+    "persentage":95
+  }],
+  "myeducation":[{
+    "academiyear":"AUG 2020 - MAY 2023",
+    "degree":"bachelor of science",
+    "course" : "computer science"
+  },{
+    "academiyear":"AUG 2020 - MAY 2023",
+    "degree":"bachelor of science",
+    "course" : "computer science"
+  }],
+  "workexperience":[{
+    "year":"AUG 2013 - MAY 2016", 
+    "job":"SENIOR GRAPHIC DESIGNER",
+    "job1":"post graduated in graphice desining"
+  },{
+  "year":"AUG 2013 - MAY 2016", 
+  "job":"SENIOR GRAPHIC DESIGNER",
+  "job1":"post graduated in graphice desining"},
+  {
+    "year":"AUG 2013 - MAY 2016", 
+    "job":"SENIOR GRAPHIC DESIGNER",
+    "job1":"post graduated in graphice desining"
+  }]
+}
